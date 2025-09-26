@@ -1,0 +1,17 @@
+curl-cffi>=0.6.0
+playwright>=1.47.0
+SQLAlchemy>=2.0.30
+alembic>=1.13.2
+python-dotenv>=1.0.1
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+lxml>=5.2.2
+schedule>=1.2.1
+pytest>=8.2.0
+pytest-cov>=5.0.0
+anticaptchaofficial>=1.0.0
+pytelegrambotapi>=4.17.0
+
+
+
+
